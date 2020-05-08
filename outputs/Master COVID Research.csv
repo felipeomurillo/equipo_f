@@ -1,0 +1,171 @@
+Country,Code,Region_x,Location,Hospital Beds,GNI Per Capita,CumCase,CumDeath,IncomeGroup,Health Expenditure per capita (current USD),Health Expenditure (% of GDP)
+Afghanistan,AFG,Eastern Mediterranean,"[33.0, 65.0]",5.0,510.0,3224.0,95.0,Low income,67.12265015,11.77719384
+Albania,ALB,Europe,"[41.0, 20.0]",29.0,4360.0,803.0,31.0,Upper middle income,,
+Algeria,DZA,Africa,"[28.0, 3.0]",19.0,4480.0,4648.0,465.0,Upper middle income,258.4942932,6.374321878
+Angola,AGO,Africa,"[-12.5, 18.5]",8.0,3240.0,35.0,2.0,Lower middle income,114.4596405,2.791500278
+Antigua and Barbuda,ATG,Americas,"[17.05, -61.8]",38.0,12690.0,25.0,3.0,High income,673.8596802000001,4.533531889
+Argentina,ARG,Americas,"[-34.0, -64.0]",50.0,9270.0,4799.0,250.0,Upper middle income,1324.6035160000001,9.124314785
+Armenia,ARM,Europe,"[40.0, 45.0]",42.0,3470.0,2619.0,40.0,Upper middle income,407.63586430000004,10.36270484
+Australia,AUS,Western Pacific,"[-27.0, 133.0]",38.0,46630.0,6825.0,95.0,High income,5331.817871,9.205947816
+Austria,AUT,Europe,"[47.33333333, 13.33333333]",76.0,49610.0,15621.0,600.0,High income,4939.875488000001,10.39661691
+Azerbaijan,AZE,Europe,"[40.5, 47.5]",47.0,5370.0,1984.0,26.0,Upper middle income,275.80935669999997,6.651829182999999
+"Bahamas, The",BHS,Americas,"[24.25, -76.0]",29.0,28370.0,83.0,11.0,High income,1771.535522,5.758889019
+Bahrain,BHR,Eastern Mediterranean,"[26.0, 50.55]",20.0,18970.0,3679.0,8.0,High income,1127.186279,4.748104885
+Bangladesh,BGD,South-East Asia,"[24.0, 90.0]",8.0,800.0,10929.0,183.0,Lower middle income,36.28233719,2.274248749
+Barbados,BRB,Americas,"[13.16666666, -59.53333333]",58.0,15570.0,82.0,7.0,High income,1183.836182,6.7791268229999995
+Belarus,BLR,Europe,"[53.0, 28.0]",110.0,6210.0,17489.0,103.0,Upper middle income,342.4999084,5.92578575
+Belgium,BEL,Europe,"[50.83333333, 4.0]",62.0,46950.0,50267.0,7924.0,High income,4507.356445,10.33866927
+Belize,BLZ,Americas,"[17.25, -88.75]",13.0,3930.0,18.0,2.0,Upper middle income,280.4988098,5.642822757
+Benin,BEN,Africa,"[9.5, 2.25]",5.0,790.0,96.0,2.0,Low income,30.76644707,3.718582168
+Bhutan,BTN,South-East Asia,"[27.5, 90.5]",17.0,2040.0,7.0,0.0,Lower middle income,96.79930115,3.1869623810000003
+Bolivia,BOL,Americas,"[-17.0, -65.0]",11.0,1780.0,1594.0,76.0,Lower middle income,220.27456669999998,6.443160772000001
+Bosnia and Herzegovina,BIH,Europe,"[44.0, 18.0]",35.0,4950.0,1926.0,77.0,Upper middle income,460.47332760000006,8.931667358
+Botswana,BWA,Africa,"[-22.0, 24.0]",18.0,5650.0,23.0,1.0,Upper middle income,465.9293213,6.134568155
+Brazil,BRA,Americas,"[-10.0, -55.0]",22.0,9660.0,101147.0,7025.0,Upper middle income,928.7993163999998,9.467476606
+Brunei Darussalam,BRN,Western Pacific,"[4.5, 114.66666666]",27.0,33300.0,138.0,1.0,High income,671.411499,2.373207733
+Bulgaria,BGR,Europe,"[43.0, 25.0]",68.0,6980.0,1652.0,78.0,Upper middle income,663.7150879,8.095603436000001
+Burkina Faso,BFA,Africa,"[13.0, -2.0]",4.0,570.0,672.0,46.0,Low income,44.40349197,6.915059686
+Burundi,BDI,Africa,"[-3.5, 30.0]",8.0,220.0,19.0,1.0,Low income,23.50043297,7.517570257
+Cabo Verde,CPV,Africa,"[16.0, -24.0]",21.0,3400.0,165.0,2.0,Lower middle income,167.5896149,5.165488645
+Cambodia,KHM,Western Pacific,"[13.0, 105.0]",8.0,750.0,122.0,0.0,Lower middle income,82.0758667,5.918841809
+Cameroon,CMR,Africa,"[6.0, 12.0]",13.0,1330.0,2077.0,64.0,Lower middle income,67.81181335,4.670666903
+Canada,CAN,Americas,"[60.0, -95.0]",27.0,44480.0,59844.0,3766.0,High income,4754.947754,10.57276949
+Central African Republic,CAF,Africa,"[7.0, 21.0]",10.0,510.0,94.0,0.0,Low income,24.15005493,5.821775645
+Chad,TCD,Africa,"[15.0, 19.0]",4.0,910.0,117.0,10.0,Low income,29.73086357,4.487301409
+Chile,CHL,Americas,"[-30.0, -71.0]",22.0,10750.0,20643.0,270.0,High income,1381.986206,8.983509988
+China,CHN,Western Pacific,"[35.0, 105.0]",42.0,4340.0,84404.0,4643.0,Upper middle income,440.8256226,5.151193216
+Colombia,COL,Americas,"[4.0, -72.0]",15.0,5610.0,7668.0,340.0,Upper middle income,459.19757080000005,7.226280868
+Comoros,COM,Africa,"[-12.16666666, 44.25]",22.0,1380.0,4.0,1.0,Lower middle income,58.76092911,7.384373993
+"Congo, Rep.",COG,Africa,"[-1.0, 15.0]",16.0,2120.0,236.0,10.0,Lower middle income,49.98372269,2.930279262
+Costa Rica,CRI,Americas,"[10.0, -84.0]",12.0,7180.0,739.0,6.0,Upper middle income,869.0777588,7.328796387000001
+Croatia,HRV,Europe,"[45.16666666, 15.5]",56.0,14080.0,2101.0,80.0,High income,902.1396483999999,6.789133698
+Cuba,CUB,Americas,"[21.5, -80.0]",52.0,5610.0,1668.0,69.0,Upper middle income,987.6270142000001,11.71132699
+Cyprus,CYP,Europe,"[35.0, 33.0]",34.0,32040.0,874.0,20.0,High income,1731.6944579999997,6.684569269
+Czech Republic,CZE,Europe,"[49.75, 15.5]",65.0,19280.0,7819.0,252.0,High income,1475.915161,7.231339067
+CÃ´te d'Ivoire,CIV,Africa,"[8.0, -5.0]",4.0,1190.0,1432.0,17.0,Lower middle income,,
+"Congo, Dem. Rep.",COD,Africa,"[0.0, 25.0]",8.0,320.0,682.0,34.0,Low income,19.43164635,3.978722915
+Denmark,DNK,Europe,"[56.0, 10.0]",25.0,61220.0,9670.0,493.0,High income,5800.151367,10.10827944
+Djibouti,DJI,Eastern Mediterranean,"[11.5, 43.0]",14.0,2740.0,1120.0,2.0,Lower middle income,70.33089447,3.316517919
+Dominican Republic,DOM,Americas,"[19.0, -70.66666666]",16.0,5330.0,8235.0,346.0,Upper middle income,433.20858760000004,6.136395037000001
+Ecuador,ECU,Americas,"[-2.0, -77.5]",15.0,4390.0,31881.0,1569.0,Upper middle income,518.0296021,8.257429302
+"Egypt, Arab Rep.",EGY,Eastern Mediterranean,"[27.0, 30.0]",16.0,2370.0,7201.0,452.0,Lower middle income,105.76845549999999,5.287636817
+El Salvador,SLV,Americas,"[13.83333333, -88.91666666]",13.0,2880.0,555.0,12.0,Lower middle income,282.4910278,7.227560133
+Equatorial Guinea,GNQ,Africa,"[2.0, 10.0]",21.0,9970.0,315.0,2.0,Upper middle income,301.1500549,3.107094206
+Eritrea,ERI,Africa,"[15.0, 39.0]",7.0,570.0,39.0,0.0,Low income,32.91199875,2.870023437
+Estonia,EST,Europe,"[59.0, 26.0]",50.0,14560.0,1703.0,55.0,High income,1300.481689,6.4293578270000005
+Eswatini,SWZ,Africa,"[-26.5, 31.5]",21.0,3460.0,116.0,1.0,Lower middle income,224.73677059999997,6.930378079
+Ethiopia,ETH,Africa,"[8.0, 38.0]",3.0,380.0,140.0,3.0,Low income,25.26195335,3.5025574269999997
+Fiji,FJI,Western Pacific,"[-18.0, 175.0]",23.0,3650.0,18.0,0.0,Upper middle income,188.4143219,3.5007447
+Finland,FIN,Europe,"[64.0, 26.0]",44.0,49600.0,5327.0,240.0,High income,4205.742676,9.206938744
+France,FRA,Europe,"[46.0, 2.0]",65.0,43850.0,130242.0,25165.0,High income,4379.727051,11.31289229
+Gabon,GAB,Africa,"[-1.0, 11.75]",13.0,7830.0,367.0,6.0,Upper middle income,204.49224850000002,2.7807459239999996
+"Gambia, The",GMB,Africa,"[13.46666666, -16.56666666]",11.0,890.0,17.0,1.0,Low income,23.27232552,3.282071277
+Georgia,GEO,Europe,"[42.0, 43.5]",26.0,3170.0,604.0,9.0,Upper middle income,293.0535889,7.601659
+Germany,DEU,Europe,"[51.0, 9.0]",83.0,44550.0,163860.0,6831.0,High income,5033.452147999999,11.246834699999999
+Ghana,GHA,Africa,"[8.0, -2.0]",9.0,1230.0,2719.0,18.0,Lower middle income,66.74941254,3.262370452
+Greece,GRC,Europe,"[39.0, 22.0]",43.0,27660.0,2632.0,146.0,High income,1516.587769,8.041390032
+Grenada,GRD,Americas,"[12.11666666, -61.66666666]",37.0,6940.0,21.0,0.0,Upper middle income,497.2360535,4.75711748
+Guatemala,GTM,Americas,"[15.5, -90.25]",6.0,2710.0,703.0,19.0,Upper middle income,259.9350281,5.813843757000001
+Guinea,GIN,Africa,"[11.0, -10.0]",3.0,690.0,1710.0,9.0,Low income,33.72011185,4.123086855
+Guinea-Bissau,GNB,Africa,"[12.0, -15.0]",10.0,580.0,292.0,2.0,Low income,52.35940933,7.23586902
+Guyana,GUY,Americas,"[5.0, -59.0]",16.0,2900.0,82.0,9.0,Upper middle income,230.5272827,4.945509881
+Haiti,HTI,Americas,"[19.0, -72.41666666]",7.0,660.0,88.0,9.0,Low income,62.35327911,8.035501092999999
+Honduras,HND,Americas,"[15.0, -86.5]",7.0,1730.0,1055.0,82.0,Lower middle income,195.93574519999999,7.858425379
+Hungary,HUN,Europe,"[47.0, 20.0]",70.0,13190.0,3065.0,363.0,High income,981.4230347000001,6.879989803
+Iceland,ISL,Europe,"[65.0, -18.0]",32.0,36250.0,1799.0,10.0,High income,6086.311522999999,8.326291292999999
+India,IND,South-East Asia,"[20.0, 77.0]",7.0,1220.0,46433.0,1568.0,Lower middle income,69.29309845,3.534959629
+Indonesia,IDN,South-East Asia,"[-5.0, 120.0]",12.0,2530.0,12071.0,872.0,Lower middle income,114.9717865,2.989054471
+"Iran, Islamic Rep.",IRN,Eastern Mediterranean,"[32.0, 53.0]",15.0,6200.0,99970.0,6340.0,Upper middle income,475.47995,8.659663796
+Iraq,IRQ,Eastern Mediterranean,"[33.0, 44.0]",14.0,4580.0,2346.0,98.0,Upper middle income,210.3137054,4.166630283
+Ireland,IRL,Europe,"[53.0, -8.0]",28.0,44870.0,21722.0,1319.0,High income,4976.862305,7.184383273
+Israel,ISR,Europe,"[31.5, 34.75]",31.0,29660.0,16237.0,234.0,High income,3144.626221,7.407464087
+Italy,ITA,Europe,"[42.83333333, 12.83333333]",34.0,37850.0,211938.0,29079.0,High income,2840.130615,8.840259165
+Jamaica,JAM,Americas,"[18.25, -77.5]",17.0,4380.0,469.0,9.0,Upper middle income,307.19604489999995,5.988416821
+Japan,JPN,Western Pacific,"[36.0, 138.0]",134.0,43440.0,15231.0,521.0,High income,4168.986328,10.93593314
+Jordan,JOR,Eastern Mediterranean,"[31.0, 36.0]",14.0,3480.0,471.0,9.0,Upper middle income,340.6618042,8.119250833999999
+Kazakhstan,KAZ,Europe,"[48.0, 68.0]",67.0,7440.0,4160.0,29.0,Upper middle income,279.6453247,3.1253617260000004
+Kenya,KEN,Africa,"[1.0, 38.0]",14.0,960.0,490.0,24.0,Lower middle income,76.61032104,4.802543297
+Kuwait,KWT,Eastern Mediterranean,"[29.5, 45.75]",20.0,42160.0,5804.0,40.0,High income,1529.0776369999999,5.291384831
+Kyrgyz Republic,KGZ,Europe,"[41.0, 75.0]",45.0,850.0,843.0,10.0,Lower middle income,78.82283783,6.185863167000001
+Lao PDR,LAO,Western Pacific,"[18.0, 105.0]",15.0,1000.0,19.0,0.0,Lower middle income,62.12463379,2.528086863
+Latvia,LVA,Europe,"[57.0, 25.0]",58.0,12580.0,896.0,16.0,High income,930.3523560000001,5.955661833
+Lebanon,LBN,Eastern Mediterranean,"[33.83333333, 35.83333333]",29.0,7480.0,741.0,25.0,Upper middle income,719.4434813999999,8.195544034
+Liberia,LBR,Africa,"[6.5, -9.5]",8.0,460.0,166.0,18.0,Low income,56.59902954,8.155337721
+Libya,LBY,Eastern Mediterranean,"[25.0, 17.0]",37.0,12380.0,63.0,3.0,Upper middle income,312.5773315,6.050127372
+Lithuania,LTU,Europe,"[56.0, 24.0]",73.0,12560.0,1449.0,46.0,High income,1078.179199,6.457564235
+Luxembourg,LUX,Europe,"[49.75, 6.16666666]",48.0,78220.0,3828.0,96.0,High income,5782.628418,5.481074378
+Madagascar,MDG,Africa,"[-20.0, 47.0]",2.0,470.0,158.0,0.0,Low income,24.6708374,5.502038077000001
+Malawi,MWI,Africa,"[-13.5, 34.0]",13.0,450.0,41.0,3.0,Low income,32.25938416,9.648231417
+Malaysia,MYS,Western Pacific,"[2.5, 112.5]",19.0,8260.0,6353.0,105.0,Upper middle income,384.06607060000005,3.859398142
+Maldives,MDV,South-East Asia,"[3.25, 73.0]",43.0,5960.0,557.0,1.0,Upper middle income,1006.9387820000001,9.029976279
+Mali,MLI,Africa,"[17.0, -4.0]",1.0,690.0,580.0,29.0,Low income,31.37810516,3.793985024
+Malta,MLT,Europe,"[35.83333333, 14.58333333]",47.0,20540.0,480.0,4.0,High income,2585.563965,9.340999275
+Mauritania,MRT,Africa,"[20.0, -12.0]",4.0,1170.0,8.0,1.0,Lower middle income,48.81713104,4.403151572
+Mauritius,MUS,Africa,"[-20.28333333, 57.55]",34.0,8080.0,332.0,10.0,Upper middle income,599.6997681,5.718720704
+Mexico,MEX,Americas,"[23.0, -102.0]",15.0,9040.0,23471.0,2154.0,Upper middle income,494.67764280000006,5.516541377
+Mongolia,MNG,Western Pacific,"[46.0, 105.0]",70.0,2000.0,41.0,0.0,Lower middle income,148.7844543,4.002301022
+Montenegro,MNE,Europe,"[42.5, 19.3]",40.0,6920.0,323.0,8.0,Upper middle income,,
+Morocco,MAR,Eastern Mediterranean,"[32.0, -5.0]",11.0,2930.0,5153.0,180.0,Lower middle income,161.0108643,5.245200172
+Mozambique,MOZ,Africa,"[-18.25, 35.0]",7.0,520.0,80.0,0.0,Low income,21.07115555,4.94119823
+Myanmar,MMR,South-East Asia,"[22.0, 98.0]",9.0,850.0,161.0,6.0,Lower middle income,58.04395676,4.65907231
+Namibia,NAM,Africa,"[-22.0, 17.0]",27.0,4510.0,16.0,0.0,Upper middle income,447.2806396000001,8.550956845
+Nepal,NPL,South-East Asia,"[28.0, 84.0]",3.0,540.0,82.0,0.0,Low income,47.91536331,5.553295091
+Netherlands,NLD,Europe,"[52.5, 5.75]",47.0,53900.0,40770.0,5082.0,High income,4911.44043,10.10083482
+New Zealand,NZL,Western Pacific,"[-41.0, 174.0]",28.0,29690.0,1137.0,20.0,High income,3937.2219240000004,9.170055389
+Nicaragua,NIC,Americas,"[13.0, -85.0]",9.0,1460.0,15.0,5.0,Lower middle income,192.08338930000002,8.645465225
+Niger,NER,Africa,"[16.0, 8.0]",3.0,350.0,755.0,37.0,Low income,29.26165009,7.7399626370000005
+Nigeria,NGA,Africa,"[10.0, 8.0]",5.0,2140.0,2802.0,93.0,Lower middle income,73.92498016,3.755538538
+Norway,NOR,Europe,"[62.0, 10.0]",39.0,88560.0,7847.0,208.0,High income,7936.375,10.44634208
+Oman,OMN,Eastern Mediterranean,"[21.0, 57.0]",16.0,18170.0,2735.0,12.0,High income,587.6463012999999,3.8490716369999998
+Pakistan,PAK,Eastern Mediterranean,"[30.0, 70.0]",6.0,1030.0,21501.0,486.0,Lower middle income,44.59296417,2.8986336660000003
+Panama,PAN,Americas,"[9.0, -80.0]",23.0,7150.0,7197.0,200.0,High income,1112.3032230000001,7.319491357
+Paraguay,PRY,Americas,"[-23.0, -58.0]",13.0,4070.0,396.0,10.0,Upper middle income,381.1130676,6.654568762
+Peru,PER,Americas,"[-10.0, -76.0]",16.0,4410.0,45928.0,1286.0,Upper middle income,332.57092289999997,4.995150492
+Philippines,PHL,Western Pacific,"[13.0, 122.0]",5.0,2460.0,9485.0,623.0,Lower middle income,132.9009857,4.44640778
+Poland,POL,Europe,"[52.0, 20.0]",65.0,12730.0,14006.0,698.0,High income,906.8201293999999,6.541953981
+Portugal,PRT,Europe,"[39.5, -8.0]",34.0,22960.0,25524.0,1063.0,High income,1908.033936,8.969574422
+Qatar,QAT,Eastern Mediterranean,"[25.5, 51.25]",12.0,63620.0,17142.0,12.0,High income,1649.186157,2.607428655
+"Korea, Rep.",KOR,Western Pacific,"[37.0, 127.5]",115.0,21260.0,10804.0,254.0,High income,2283.074707,7.603863627000001
+Moldova,MDA,Europe,"[47.0, 29.0]",58.0,1910.0,4248.0,133.0,Lower middle income,191.18577580000002,7.012950629
+North Macedonia,MKD,Europe,"[41.83333333, 22.0]",44.0,4700.0,1518.0,85.0,Upper middle income,328.4197998,6.062114984
+Romania,ROU,Europe,"[46.0, 25.0]",63.0,8610.0,13512.0,803.0,Upper middle income,555.1047363,5.157888308
+Russian Federation,RUS,Europe,"[60.0, 100.0]",82.0,9980.0,155370.0,1451.0,Upper middle income,585.87323,5.344577879
+Rwanda,RWA,Africa,"[-2.0, 30.0]",16.0,580.0,261.0,0.0,Low income,49.20445633,6.5715983510000004
+St. Lucia,LCA,Americas,"[13.88333333, -60.96666666]",13.0,7430.0,18.0,0.0,Upper middle income,460.0688171,4.545886815
+St. Vincent and the Grenadines,VCT,Americas,"[13.25, -61.2]",26.0,6090.0,17.0,0.0,Upper middle income,320.59329219999995,4.487125203
+SÃ£o TomÃ© and Principe,STP,Africa,"[1.0, 7.0]",29.0,1130.0,161.0,3.0,Lower middle income,,
+Saudi Arabia,SAU,Eastern Mediterranean,"[25.0, 45.0]",27.0,18750.0,30251.0,200.0,High income,1093.405518,5.23025319
+Senegal,SEN,Africa,"[14.0, -14.0]",3.0,1340.0,1271.0,10.0,Lower middle income,55.01403809,4.134063795
+Serbia,SRB,Europe,"[44.0, 21.0]",57.0,6220.0,9557.0,197.0,Upper middle income,528.545166,8.433958143
+Seychelles,SYC,Africa,"[-4.58333333, 55.66666666]",36.0,10190.0,11.0,0.0,High income,791.6566772000001,5.0067350269999995
+Sierra Leone,SLE,Africa,"[8.5, -11.5]",4.0,420.0,178.0,9.0,Low income,66.40218353,13.42092752
+Singapore,SGP,Western Pacific,"[1.36666666, 103.8]",24.0,44930.0,18778.0,18.0,High income,2618.712402,4.440382868
+Slovak Republic,SVK,Europe,"[48.66666666, 19.5]",58.0,17240.0,1413.0,25.0,High income,1186.1363529999999,6.742534786
+Slovenia,SVN,Europe,"[46.11666666, 14.81666666]",46.0,24540.0,1439.0,97.0,High income,1920.28186,8.18701759
+South Africa,ZAF,Africa,"[-29.0, 24.0]",28.0,6190.0,7220.0,138.0,Upper middle income,499.2375488,8.113118261
+Spain,ESP,Europe,"[40.0, -4.0]",30.0,31880.0,218011.0,25428.0,High income,2506.464844,8.873129636
+Sri Lanka,LKA,South-East Asia,"[7.0, 81.0]",35.0,2410.0,755.0,8.0,Upper middle income,159.48474119999997,3.8114205
+Sudan,SDN,Eastern Mediterranean,"[15.0, 30.0]",8.0,1260.0,778.0,45.0,Lower middle income,193.793045,6.341807544
+Suriname,SUR,Americas,"[4.0, -56.0]",31.0,7620.0,10.0,1.0,Upper middle income,339.32797239999996,6.229769811000001
+Sweden,SWE,Europe,"[62.0, 15.0]",26.0,54570.0,22721.0,2769.0,High income,5904.583984000001,11.01874635
+Switzerland,CHE,Europe,"[47.0, 8.0]",47.0,77570.0,29898.0,1476.0,High income,9956.259766,12.34632209
+Tajikistan,TJK,Europe,"[39.0, 71.0]",48.0,920.0,230.0,7.0,Low income,57.89985275,7.228814811
+Thailand,THA,South-East Asia,"[15.0, 100.0]",21.0,4580.0,2988.0,54.0,Upper middle income,247.0351105,3.7460163239999997
+Timor-Leste,TLS,South-East Asia,"[-8.83333333, 125.91666666]",59.0,2850.0,24.0,0.0,Lower middle income,83.19770813,3.8822934030000003
+Togo,TGO,Africa,"[8.0, 1.16666666]",7.0,560.0,126.0,9.0,Low income,38.04871368,6.1995122579999995
+Trinidad and Tobago,TTO,Americas,"[11.0, -61.0]",30.0,16460.0,116.0,8.0,High income,1124.091675,6.978735328
+Tunisia,TUN,Eastern Mediterranean,"[34.0, 9.0]",23.0,4130.0,1018.0,43.0,Lower middle income,250.5622253,7.232457398999999
+Turkey,TUR,Europe,"[39.0, 35.0]",27.0,10430.0,127659.0,3461.0,Upper middle income,444.65368650000005,4.216302931
+Uganda,UGA,Africa,"[1.0, 32.0]",5.0,560.0,89.0,0.0,Low income,38.42644119,6.187755987
+Ukraine,UKR,Europe,"[49.0, 32.0]",88.0,2980.0,12697.0,316.0,Lower middle income,177.4088898,6.99532032
+United Arab Emirates,ARE,Eastern Mediterranean,"[24.0, 54.0]",12.0,33400.0,15192.0,146.0,High income,1357.017456,3.3342823389999996
+United Kingdom,GBR,Europe,"[54.0, -2.0]",28.0,41650.0,190588.0,28734.0,High income,3858.6743159999996,9.631694108
+Tanzania,TZA,Africa,"[-6.0, 35.0]",7.0,720.0,480.0,18.0,Low income,33.91657639,3.6454513669999997
+United States,USA,Americas,"[38.0, -97.0]",29.0,48990.0,1154985.0,62406.0,High income,10246.13867,17.06126928
+Uruguay,URY,Americas,"[-33.0, -56.0]",28.0,10440.0,655.0,17.0,High income,1591.533203,9.2962116
+Uzbekistan,UZB,Europe,"[41.0, 64.0]",40.0,1370.0,2189.0,10.0,Lower middle income,98.82457733,6.41438514
+"Venezuela, RB",VEN,Americas,"[8.0, -66.0]",8.0,11810.0,357.0,10.0,Upper middle income,94.22937775,1.181210112
+Vietnam,VNM,Western Pacific,"[16.16666666, 107.83333333]",26.0,1250.0,271.0,0.0,Lower middle income,129.5759583,5.532128364
+"Yemen, Rep.",YEM,Eastern Mediterranean,"[15.0, 48.0]",7.0,1200.0,21.0,3.0,Low income,72.03946686,4.23457548
+Zambia,ZMB,Africa,"[-15.0, 30.0]",20.0,1340.0,137.0,3.0,Lower middle income,67.64866638,4.47034128
+Zimbabwe,ZWE,Africa,"[-20.0, 30.0]",17.0,630.0,34.0,4.0,Lower middle income,110.14962009999999,6.635916233
