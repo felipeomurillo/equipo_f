@@ -1,5 +1,5 @@
 # equipo_f
-Project #1: Project #1 COVID-19: Data Research
+Project #1: COVID-19: Data Research
 TEC Monterrey Data Bootcamp
 
 Equipo F: 
