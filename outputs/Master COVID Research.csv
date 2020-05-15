@@ -1,4 +1,4 @@
-Country,Code,Region_x,Location,Hospital Beds,GNI Per Capita,CumCase,CumDeath,IncomeGroup,Health Expenditure per capita (current USD),Health Expenditure (% of GDP)
+Country,Code,Region,Location,Hospital Beds,GNI Per Capita,CumCase,CumDeath,IncomeGroup,Health Expenditure per capita (current USD),Health Expenditure (% of GDP)
 Afghanistan,AFG,Eastern Mediterranean,"[33.0, 65.0]",5.0,510.0,3224.0,95.0,Low income,67.12265015,11.77719384
 Albania,ALB,Europe,"[41.0, 20.0]",29.0,4360.0,803.0,31.0,Upper middle income,,
 Algeria,DZA,Africa,"[28.0, 3.0]",19.0,4480.0,4648.0,465.0,Upper middle income,258.4942932,6.374321878
