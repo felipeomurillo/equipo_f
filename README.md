@@ -1,13 +1,10 @@
 # equipo_f
-Project #1: COVID-19: Data Research
+COVID-19: Correlating impact with financial/health indicators
 
 TEC Monterrey Data Bootcamp
 
 
-Equipo F:
-
-Cecilia Acosta | Luis Bonilla | Felipe Murillo
-
+Equipo F: Cecilia Acosta | Luis Bonilla | Felipe Murillo
 May 16, 2020
 
 ------------------------------------------------------
